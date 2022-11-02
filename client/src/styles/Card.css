@@ -1,0 +1,80 @@
+.card-container{
+    
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    
+    height: 400px;
+    
+} 
+
+  .card{
+    border-radius: 10px;
+    box-shadow: 0 1rem 1rem rgba(0,0,0,0.2);
+    margin: 2rem;
+    overflow: hidden;
+    width: 15rem;
+    backdrop-filter: blur(1rem);
+    background-color: rgba(8, 8, 8, 0.411);
+    border: .1rem solid #f17fc2ee;
+    color:rgba(189, 192, 189, 0.959); 
+    
+}   
+
+.card:hover{
+    background-color:rgba(224, 24, 24, 0.068)
+}
+
+.temps {
+    color:rgba(189, 192, 189, 0.959);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 13px;
+    
+    
+ }
+ 
+ .weight{
+    padding: 5px;
+    font-size: small;
+    text-align: center;
+} 
+
+.temp-title {
+   text-align: center;
+   color:#f17fc2ee;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+ .info {
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    
+} 
+
+.background-top-row{
+    
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgba(189, 192, 189, 0.959);
+    border-radius: 10px;
+    
+} 
+
+.img-dog {
+    width:100%;
+    max-height: 150px;
+    
+    
+}
+ 
+
+ 

@@ -1,0 +1,41 @@
+  .paginado{
+   margin-left: 50px;
+}  
+ 
+.number{
+    border-radius: 5px;
+    box-shadow: 0 1rem 1rem rgba(0,0,0,0.2);
+    cursor: pointer;
+    backdrop-filter: blur(1rem);
+    overflow: hidden;
+    width: 2.5rem;
+    backdrop-filter: blur(1rem);
+    background-color: transparent;
+    border: .1rem solid #f17fc2ee;
+    color: white;
+    margin: .5rem;
+}
+.number:hover{
+    background-color:rgba(247, 224, 241, 0.507) ;
+}
+.flechas-container{
+    margin-left: 600px;
+}
+/* .flechas{
+    width: 50px;
+    height: 30px;
+    background-color: transparent;
+    border: .1rem solid #f17fc2ee;
+    backdrop-filter: blur(1rem);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-bottom:30px ;
+    margin-top: 0px;
+}
+.flechas:hover{
+
+    color: black;
+    background-color: rgba(247, 224, 241, 0.507);
+}  */
