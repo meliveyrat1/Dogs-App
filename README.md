@@ -3,6 +3,12 @@
 # Individual Project - Henry Dogs
 
 <img height="200" src="./dog.png" />
+<div >
+<h1>Project screens</h1>
+<h3>.Landing page</h3>
+<img src=""/>
+</div>![landing app](https://user-images.githubusercontent.com/105014904/199568152-0efb5d01-aed7-4de3-be2b-c87b9920ad20.png)
+
 
 ## Objetivos del Proyecto
 
@@ -182,8 +188,4 @@ __IMPORTANTE__: No está permitido utilizar los filtrados, ordenamientos y pagin
   - Obtener todos los temperamentos posibles
   - En una primera instancia deberán obtenerlos desde la API externa y guardarlos en su propia base de datos y luego ya utilizarlos desde allí
 
-## Testing
 
-- [ ] Al menos tener un componente del frontend con sus tests respectivos
-- [ ] Al menos tener una ruta del backend con sus tests respectivos
-- [ ] Al menos tener un modelo de la base de datos con sus tests respectivos
